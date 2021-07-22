@@ -1,7 +1,7 @@
 # Email-Sender-in-VB
 
 ## Creator : Nirmith Victor D'Almeida
-## Company : <REDACTED?>
+## Company : <?REDACTED?>
 
 ### What is this app Nirmith?
 - This is the future of ultimate laziness use one email for hotmail, gmail emails hell even both go crazy fam
