@@ -14,6 +14,13 @@
 
 ### All in all much love yall are amazing, stay groovy, connect with me through my linkedin *https://www.linkedin.com/in/nirmith-dalmeida-81ab2418a/* and let's chat eh!!!
 
+### UPDATES:
+- I added a new update therefore making it work with hotmail that is you can email using a hotmail
+  - How to make it work?
+    - set the SMTP decalred variable to smtp-mail.outlook.com
+    - Set the SMTP.PORT to 587 and use your own emails and password for this
+
+
 This is what it looks like:
 ![Final Output](https://github.com/NirmithVictor/Email-Sender-in-VB/blob/main/Final%20Output.png)
 
